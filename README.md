@@ -14,3 +14,5 @@ MAIL_FROM_ADDRESS=dev.riteshmistri@gmail.com
 
 
 APP_API_URL=http://127.0.0.1:3000/
+
+## Add database connection of cron365 on .env  
